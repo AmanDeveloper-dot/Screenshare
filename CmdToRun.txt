@@ -1,0 +1,7 @@
+1. Start node server:
+
+node server.js
+
+
+2. Client side:
+npm start
